@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+output/*.json
+output/*.txt
+.DS_Store
+followers.json
+following.json
